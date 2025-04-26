@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+openai
+python-dotenv # For managing API keys 
+pypdf
+python-docx
+markdown
+pydantic-settings
+tiktoken
+python-multipart
